@@ -36,6 +36,7 @@ public class Commande {
     System.out.println(" ");
     i++;
     }
+         system.out.println("fin");
     }
 }
 
